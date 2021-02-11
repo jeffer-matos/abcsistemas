@@ -1,2 +1,0 @@
-# abcsistemas
-Sistema da ABC
